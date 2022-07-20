@@ -5,11 +5,6 @@
     "homepage": "https://github.com/shulyak/yii2-sendgrid-mailer",
     "type": "yii2-extension",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Wade Shuler",
-        }
-    ],
     "support": {
         "issues": "https://github.com/shulyak/yii2-sendgrid/issues?state=open",
         "source": "https://github.com/shulyak/yii2-sendgrid"
